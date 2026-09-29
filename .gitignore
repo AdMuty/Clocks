@@ -1,0 +1,19 @@
+# Скомпилированные файлы
+*.exe
+*.out
+*.o
+*.obj
+
+# Папки сборки
+build/
+bin/
+obj/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# ОС
+.DS_Store
+Thumbs.db
